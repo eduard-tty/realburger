@@ -1,4 +1,7 @@
-Nicknames?
+TODO
+----
+
+- Give chacters Nicknames?
 
 
 The Trust: Episode 1 - The Real Burger
@@ -136,6 +139,11 @@ OtE86
 
 Rules Changes
 -------------
+
+- Languages have levels like skills
+
+
+
 
 
 

@@ -33,22 +33,21 @@ Frank Martin. He is a character for a series of movies 'The Transporter' 1,2,3. 
 competent driver who gets into trouble and pulls remarcable stunts to get out of them. Even though
 he does not really exists the character is her number one example.
 
-
-
 ##### Traits
 
-    Trait                   Dice   Sign
+    Trait                   Dice   Sign                            Notes
 
-    Driving                 6      Le Mans T-Shirt
+    Driving                 5      Le Mans T-Shirt
     Capoeira                3      Never seems to stand still
     Auto mechanic           2      Tool belt
-    Car jacking             1      Recognises valuable cars
+    Car jacking             1      Recognizes valuable cars
+    Quick Reflexes          +1     -                               Bonus die on relevant actions
     
     Arabic(Lebanese)        4      Arabic accent
     French                  3      -
     English                 2      -    
 
-    Hit Points              21     Trained
+    Hit Points              21     Pluck
     Experience              2      -
 
 ##### Important stuff 

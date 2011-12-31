@@ -1,3 +1,17 @@
+Planning:
+
+    31 Finish Soldier & Medic
+     1 Finish Investigator
+     2 Finish Plot
+     3 Finish GMPC's
+     4 Write Letter
+     5 Work out Locations
+     6 Make Character sheets
+     7 Work out how to present rules to players
+     8 Play
+    
+
+
 TODO
 ----
 

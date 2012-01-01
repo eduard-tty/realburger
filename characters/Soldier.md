@@ -1,38 +1,63 @@
-#### Muhammad Bashir (Fighter)
+Muhammad Bashir (Fighter)
+=========================
 
-##### Description
+Description
+-----------
 
-Soldier from Nigeria
+Muhammad is a 27 year old war veteran from Nigeria. He has short black hair and brown eyes.
+He is a praticing Muslim, but tolerant of most other religions.  
 
-##### Goal
+Goal
+----
 
-##### Drives
+Find a better live for himself and leave the war behind and settle down with Adaora.
 
-##### Motivation to stay in Al Amarja
+Drives
+------
 
-##### Secret
+- Get past post-war trauma
+- Find a decent live and a job 
+- Smuggle girlfriend out of Nigeria
 
-##### Important Person
+Motivation to stay in Al Amarja
+-------------------------------
 
 
 
+Secret
+------
 
-##### Traits
+Killed a fellow soldier in cold blood and made it look like enemy
+fire, because he was too integereted in Adora. It looks like he got
+away with it, but you never know.
 
-    Trait                   Dince   Sign
+Important Person
+----------------
 
-    Soldier                 4
+Back home in the village where he grew up lives his love Adaora. He
+sees her off an on when war and his job as a soldier allows. When his
+enlistment ended he decided to find a better life for him and her
+somewhere.
 
+
+Traits
+------
+ 
+qAddict      Uses drugs to manage war trauma's
+
+Addict      Uses drugs to manage war trauma's
+y
+
+    Trait                   Dice   Sign           Notes
+
+    Soldier                 4      Wears desert camouflage clothing
+
+    War Trauma              -      Darting eyes   Sometimes sees threats when there are none             
 
     British English         3
     Yoruba                  3
     French                  1
 
-
-Addict      Uses drugs to manage war trauma's
-
-Age         28
-Hit points  31
-Experience  3
-Motivation  Hide from
+Hit points  31 
+Experience  2
 

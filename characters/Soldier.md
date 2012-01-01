@@ -1,6 +1,21 @@
 #### Muhammad Bashir (Fighter)
 
+##### Description
+
 Soldier from Nigeria
+
+##### Goal
+
+##### Drives
+
+##### Motivation to stay in Al Amarja
+
+##### Secret
+
+##### Important Person
+
+
+
 
 ##### Traits
 

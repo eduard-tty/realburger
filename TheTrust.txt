@@ -16,7 +16,7 @@ TODO
 ----
 
 - Give chacters Nicknames?
-
+- Put goal last on sheets to avoud forward references.
 
 The Trust: Episode 1 - The Real Burger
 ======================================

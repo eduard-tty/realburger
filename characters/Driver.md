@@ -1,39 +1,48 @@
-#### Phaedra Itani (Driver)
+Phaedra Itani (Driver)
+======================
 
-##### Description
+Description
+-----------
 
 Phaedra is a wild child from a Lebanese mother. Her father was not spoken about. She did well
 enough in school to study, but chose to contignue her passion of street-racing and try and make it
 a career. Since she is only 17 years old she hasn't had much luck and only held the odd job
 driving delivery vans.
 
-##### Goal
+Goal
+----
 
 Prove herzelf as a racer
 
-##### Drives
+Drives
+------
+
 - Be treated as an adult
 - Make enough to get by
 - Get a job as a driver
 
-##### Motivation to stay in Al Amarja
+Motivation to stay in Al Amarja
+-------------------------------
 
 Declare herself legal and get a drivers license so she can find a job driving.
 
-##### Secret
+Secret
+------
 
 Phaedra was flat broke when she finally got the letter and although the ticket was paid for she
 would need some money. This guy offered to pay her $200 in advance if she would smuggle this
 package into The Edge and deliver it to 'Al Amarjan Investments' without anyone finding out. There
 she would recieve an additional $800. She suspects it's drugs but has not tried to find out.
 
-##### Important Person
+Important Person
+----------------
 
 Frank Martin. He is a character for a series of movies 'The Transporter' 1,2,3. An extremely
 competent driver who gets into trouble and pulls remarcable stunts to get out of them. Even though
 he does not really exists the character is her number one example.
 
-##### Traits
+Traits
+------
 
     Trait                   Dice   Sign                            Notes
 
@@ -50,7 +59,8 @@ he does not really exists the character is her number one example.
     Hit Points              21     Pluck
     Experience              2      -
 
-##### Important stuff 
+Important stuff 
+---------------
 
 - $63
 - Car mechanics tool belt

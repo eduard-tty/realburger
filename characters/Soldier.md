@@ -43,11 +43,6 @@ somewhere.
 Traits
 ------
  
-qAddict      Uses drugs to manage war trauma's
-
-Addict      Uses drugs to manage war trauma's
-y
-
     Trait                   Dice   Sign           Notes
 
     Soldier                 4      Wears desert camouflage clothing

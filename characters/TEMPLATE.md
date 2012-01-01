@@ -1,22 +1,27 @@
+Name (Role)
+===========
+
+Description
+-----------
+
+Goal
+----
+
+Drives
+------
+
+Motivation to stay in Al Amarja
+-------------------------------
 
 
-#### Template
+Secret
+------
 
-##### Description
+Important Person
+----------------
 
-##### Goal
-
-##### Drives
-
-##### Motivation to stay in Al Amarja
-
-##### Secret
-
-##### Important Person
-
-
-
-##### Traits
+Traits
+------
 
     Trait                   Dice   Sign
 
@@ -24,7 +29,10 @@
     Hit Points                     
     Experience              2      -
 
-##### Important stuff 
+Important stuff
+---------------
+
+
 
 
 

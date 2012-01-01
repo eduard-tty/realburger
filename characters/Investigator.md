@@ -1,4 +1,5 @@
-#### Ernest Spike (Investigator)
+Ernest Spike (Investigator)
+---------------------------
 
 Ernest Spike is a independant investiogative journalist that lives in The Edge.
 

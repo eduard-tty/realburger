@@ -4,10 +4,11 @@ Albert Mosely (Hacker)
 Description
 -----------
 
-Alberts Mosely is a 22 year old Britisch computer science student and quite talented. Despite
-being raised by two mothers who had him though Artificial insimination his sense of style leaves
-something to be desired. He spends much of his time figuring out how to put various computers to
-unintended uses.
+Alberts Mosely is a 22 year old Britisch computer science student and
+quite talented. Despite being raised by two mothers who had him though
+Artificial insimination his sense of style leaves something to be
+desired. He spends much of his time figuring out how to put various
+computers to unintended uses.
 
 Goal
 ----
@@ -29,8 +30,9 @@ Avoid investigations into his previous actions.
 Secret
 ------
 
-Hacked into some imporant government files and leaked them online to wiki-leaks. Now he suspects
-there is an investigation going on aganist him so he is making himself scarse.
+Hacked into some imporant government files and leaked them online to
+wiki-leaks. Now he suspects there is an investigation going on aganist
+him so he is making himself scarse.
 
 Important Person
 ----------------

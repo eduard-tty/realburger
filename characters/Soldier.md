@@ -4,15 +4,17 @@ Muhammad Bashir (Fighter)
 Description
 -----------
 
-Muhammad is a 27 year old war veteran from Nigeria. He has short black hair and brown eyes.  He is
-a praticing Muslim, but tolerant of most other religions. Before he joined the army he worked on a
-farm as an anymal handler. He still is very good with animals and that came in useful a couple of
-times during the wars he was in.
+Muhammad is a 27 year old war veteran from Nigeria. He has short black
+hair and brown eyes.  He is a praticing Muslim, but tolerant of most
+other religions. Before he joined the army he worked on a farm as an
+anymal handler. He still is very good with animals and that came in
+useful a couple of times during the wars he was in.
 
 Goal
 ----
 
-Find a better live for himself and leave the war behind and settle down with Adaora.
+Find a better live for himself and leave the war behind and settle
+down with Adaora.
 
 Drives
 ------
@@ -24,7 +26,8 @@ Drives
 Motivation to stay in Al Amarja
 -------------------------------
 
-Al Amarja has loose enoug law for him to feel comfortable and enough wealth to find a good life.
+Al Amarja has loose enoug law for him to feel comfortable and enough
+wealth to find a good life.
 
 Secret
 ------
@@ -60,7 +63,7 @@ Traits
 
     Hit points              31     Tough
     Experience              2
-    Spychic pool            
+    Spychic pool            3            
 
 Important stuff
 ---------------

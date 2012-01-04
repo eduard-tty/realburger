@@ -7,10 +7,6 @@ Description
 Australian Trainee doctor with chiseled good looks and blond short hair and a fetchign smile. He
 is 23 years old has confidant air about him.
 
-Goal
-----
-Become world famous, through a medical breakthough.
-
 Drives
 ------
 - Medical experimentation
@@ -40,6 +36,10 @@ Important Person
 
 Dr. Alfonse Rodriguez. The notes he found one day on a discarded flash drive made his invention
 possible and James is sure that with his help he could make it much more effective.
+
+Goal
+----
+Become world famous, through a medical breakthough.
 
 Traits
 ------

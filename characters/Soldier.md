@@ -10,12 +10,6 @@ other religions. Before he joined the army he worked on a farm as an
 anymal handler. He still is very good with animals and that came in
 useful a couple of times during the wars he was in.
 
-Goal
-----
-
-Find a better live for himself and leave the war behind and settle
-down with Adaora.
-
 Drives
 ------
 
@@ -44,6 +38,11 @@ sees her off an on when war and his job as a soldier allows. When his
 enlistment ended he decided to find a better life for him and her
 somewhere.
 
+Goal
+----
+
+Find a better live for himself and leave the war behind and settle
+down with Adaora.
 
 Traits
 ------

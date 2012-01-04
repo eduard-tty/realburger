@@ -10,11 +10,6 @@ contignue her passion of street-racing and try and make it a
 career. Since she is only 17 years old she hasn't had much luck and
 only held the odd job driving delivery vans.
 
-Goal
-----
-
-Prove herzelf as a racer
-
 Drives
 ------
 
@@ -45,6 +40,11 @@ Frank Martin. He is a character for a series of movies 'The
 Transporter' 1,2,3. An extremely competent driver who gets into
 trouble and pulls remarcable stunts to get out of them. Even though he
 does not really exists the character is her number one example.
+
+Goal
+----
+
+Prove herzelf as a racer
 
 Traits
 ------

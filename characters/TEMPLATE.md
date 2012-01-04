@@ -4,9 +4,6 @@ Name (Role)
 Description
 -----------
 
-Goal
-----
-
 Drives
 ------
 
@@ -19,6 +16,9 @@ Secret
 
 Important Person
 ----------------
+
+Goal
+----
 
 Traits
 ------

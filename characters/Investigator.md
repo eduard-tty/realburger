@@ -8,10 +8,6 @@ Ernest Spike is a freelance investigative journalist that lives in The
 Edge with his dog Rover. He is a caucasian male of 25 years old. With
 blond hair and blue eyes.
 
-Goal
-----
-
-Fugure out what is behind this letter he recieved.
 
 Drives
 ------
@@ -49,6 +45,11 @@ Big(45kg)                          2      Size.
 
 Attack(X2)                         3      Sharp teeth
 Defense                            2      -
+
+Goal
+----
+
+Fugure out what is behind this letter he recieved.
 
 Traits
 ------

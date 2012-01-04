@@ -12,13 +12,6 @@ coven. She was the result of a rather wild Samhain ritual and her
 mother could never precisely say who her father is so she has never
 met him.
 
-Goal
-----
-
-Ashtart has lead her to believe that the way to finding her mother in
-to settle in The Edge for a while so she is hoping to spend a year at
-D'Auaine University.
-
 Drives
 ------
 
@@ -48,6 +41,13 @@ unseasy feeling about him. He was always mysterious and charming and
 so was quite popular. After her pact she started to suspact he has
 made a similar deal, but she could not get confirmation before they
 both disappeared.
+
+Goal
+----
+
+Ashtart has lead her to believe that the way to finding her mother in
+to settle in The Edge for a while so she is hoping to spend a year at
+D'Auaine University.
 
 Traits
 ------

@@ -10,11 +10,6 @@ Artificial insimination his sense of style leaves something to be
 desired. He spends much of his time figuring out how to put various
 computers to unintended uses.
 
-Goal
-----
-
-Make a new life for himself.
-
 Drives
 ------
 
@@ -37,7 +32,12 @@ him so he is making himself scarse.
 Important Person
 ----------------
 
-Julian Assange, founder of wiki-leaks, is his inspiration and example.
+Julian Assange, founder of wiki-leaks, is his inspiration and example
+
+Goal
+----
+
+Make a new life for himself.
 
 Traits
 ------

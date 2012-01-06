@@ -155,7 +155,17 @@ Angela Reyes (with them on the plain)
 
 OtE86
 
-### Locations
+Locations
+---------
+- Airport
+- Outside DMitri's
+- David Coldburns office
+- DMitri's
+- Studio
+
+### Possible Loctions
+- Al Amarja Investments
+- Sad Mary's
 
 ### PCs
 
@@ -166,6 +176,7 @@ OtE86
 - Ernest Spike (Investigator)
 - Muhannad Bashir (Soldier)
 
+### Names
 
 Rules Changes
 -------------

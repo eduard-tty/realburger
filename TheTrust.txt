@@ -1,6 +1,5 @@
 Planning:
 
-       14:00 Finish Plot
        18:00 Finish GMPC's
        22:00 Write Letter
 
@@ -105,7 +104,7 @@ They will get two so they can triangulate if they think of it.
 ### Climax: At the studio
 
 Small building in Broken Wings, houses a alien tec TV studio.  Inside
-they find Tray Cunningham, a tortured rogue kergillian artist. The
+they find Ali Trueman, a tortured rogue kergillian artist. The
 director of The Real Burger. They may tralk him into removing the
 trancievers. When they have talked to him for a while a high beep
 sounds and a counter on the studio(in a suitcase) starts to run down
@@ -144,6 +143,12 @@ Characters
 
 ### GMCs
 
+- David Coldburn; Solicitor
+- Ali trueman; Tortured rogue kergillain director
+
+- Angela Reyes; Airplane passennger
+- ; Fat white pube guide
+
 They are the same person. A time-traveler Glug? from the future where the
 Thockmorton device is created and in control.
 
@@ -163,7 +168,6 @@ Disguise
 
 7 million dollars in a vault.
 
-Director: Ali Trueman
 
 {TODO}
 

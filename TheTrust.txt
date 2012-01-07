@@ -84,10 +84,10 @@ The characters need to sit down and think. They need a way to get of the TV show
 some meat. Investigator needs to know whats goin on.
 
 - Driver has a package to deliver that also needs privacy. She might ask for help from The Net,
-  for a price{TODO}.
+  for a price, deliver another package to the piece force.
 - Hacker might get on the internet and follow the live stream thats also being broadcast. 
 - DMitri can build something to trace the signal from their heads to the studio.
-- They migth go to the peace force or Dr. Nusbaum and he will help them to remove the transciever
+- They might go to the peace force or Dr. Nusbaum and he will help them to remove the transciever
   for a price. 
 - They might return to EZ Sleep 2.0 and find the person who did the implants
 - Investigator might ask contacts at the paper where to go next.
@@ -109,14 +109,23 @@ they find Tray Cunningham, a tortured rogue kergillian artist. The
 director of The Real Burger. They may tralk him into removing the
 trancievers. When they have talked to him for a while a high beep
 sounds and a counter on the studio(in a suitcase) starts to run down
-from some some number in kergillian digets. Tray tells them the studio
-and the trancievers will blow up in a few minutes.
+from some some number in kergillian digets. 
 
+Tray tells them the studio and the trancievers will blow up in a few
+minutes he might do someting quick to disable them but he's not sure
+it will work so they should get as far away as possible and maybe
+they'll be out of range. He also ads a counter to a smartphone of
+able, but it's in Kergillian digits and units of time.
 
 ### Wind-down: Reading of the will 
 
-They are no longer on TV and the will can be read. They are to run a trust together with David
-Coldburn to find and take care of all of Harry Lynch's children. The recieve a decent salery.
+When they are far enough away the counter stops an a big explosion
+happens where teh studio was. A single body is found, but is one looks
+closely it's nothing like teh man they talked to.
+
+They are no longer on TV and the will can be read. They are to run a
+trust together with David Coldburn to find and take care of all of
+Harry Lynch's children. The recieve a decent salery.
 
 The Letter
 ----------

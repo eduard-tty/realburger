@@ -1,7 +1,6 @@
 Planning:
 
-       18:00 Finish GMPC's
-       22:00 Write Letter
+       Finish GMPC's
 
        09:00 Work out how to present rules to players
        10:00 Make Character sheets
@@ -126,17 +125,10 @@ They are no longer on TV and the will can be read. They are to run a
 trust together with David Coldburn to find and take care of all of
 Harry Lynch's children. The recieve a decent salery.
 
-The Letter
-----------
-
-
- 
-
 Goal
 ----
 
 To stop the TV show without being kidnapped by Aliens.
-
 
 Characters
 ----------
@@ -147,10 +139,13 @@ Characters
 - Ali trueman; Tortured rogue kergillain director
 
 - Angela Reyes; Airplane passennger
-- ; Fat white pube guide
+- Mike Farrow; Fat white pube guide
 
-They are the same person. A time-traveler Glug? from the future where the
-Thockmorton device is created and in control.
+### David Coldburn (Harry Lynch)
+
+They are the same person. A time-traveler Glug from the future where the Thockmorton device is
+created and in control. He and his descendants are immune to the device and so he came to the past
+to seed as many as possible to create an army to fight with in teh future.
 
 Harry Lynch  / Father(dead)
 
@@ -158,22 +153,30 @@ Jovial fat old man. Balding gray hair. Wealthy.
 
 David Coldburn / Solicitor
 
-Stiff lawyer type.
-
+Stiff british lawyer type.
 
 Timetraveler  6         Complex watch
 Lawyer        3		Fancy suit
 Blending in   3		familiar face
-Disguise
+Disguise      3         -
 
 7 million dollars in a vault.
 
+### Angela Reyes 
 
-{TODO}
+See OtE p86
 
-Angela Reyes (with them on the plain)
+### Ali Trueman
 
-OtE86
+
+Kergillian Impant   +1    Eats chalk
+Film                 3    watches things through finger frame
+
+Misunderstood    flaw     Goth look    
+
+
+
+### Mike FArrow
 
 Locations
 ---------
@@ -207,5 +210,6 @@ Rules Changes
 
 
 
+- predictable attackrule
 
 
